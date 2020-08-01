@@ -1,0 +1,39 @@
+  body {
+      font-family: 'Piedra', cursive;
+      background-image: url("./images/gradienta-LeG68PrXA6Y-unsplash.jpg");
+      margin-left: 150px;
+      margin-right: 150px;
+  }
+
+  div {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      text-align: center;
+  }
+
+  ul {
+      background-color: grey;
+      padding-left: 15%;
+      padding-right: 15%;
+      padding-top: 5%;
+      padding-bottom: 5%;
+      text-align: left;
+      display: inline-block;
+  }
+
+  ol {
+      text-align: left;
+  }
+
+  h1 {
+      font-size: 250%;
+      font-weight: 600;
+  }
+
+  h2 {
+      font-size: 175%;
+      font-weight: 600;
+      color: brown;
+      text-decoration: underline;
+  }
